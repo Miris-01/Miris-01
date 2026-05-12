@@ -54,4 +54,4 @@ I am a **Software Developer & Analyst** with a strong background in **Social Ant
 ## 📫 Get in Touch
 
 - 📧 Email: miriamga1994@gmail.com
-- 🌍 Location: Seville, Spain
+- 💼 Linkedin: https://www.linkedin.com/in/miriam-gutierrez-arribas/
