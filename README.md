@@ -1,6 +1,6 @@
 # Hi there! I'm Miriam 👋
 
-I am a **Software Developer & Analyst** with a strong background in **Social Anthropology**. My approach combines technical precision in software development with a human-centric analytical lens, currently focusing on **Data Science** and **Artificial Intelligence**.
+I am a **Software Developer & Analyst** with a strong background in **Social Anthropology**. My approach combines technical precision in software development with a human-centric analytical lens, currently focusing on **Data Science** and **AI**.
 
 ---
 
