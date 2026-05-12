@@ -2,7 +2,9 @@
 
 I am a **Software Developer & Analyst** with a strong background in **Social Anthropology**. My approach combines technical precision in software development with a human-centric analytical lens, currently focusing on **Data Science** and **AI**.
 
----
+<p align="center">
+  <img src="github-banner.png" alt="Banner Sevilla Data Science" width="100%">
+</p>
 
 ## 🚀 About Me
 
