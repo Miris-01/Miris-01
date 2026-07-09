@@ -37,7 +37,7 @@ I am a **Software Developer & Analyst** with a strong background in **Social Ant
 ## 🎓 Education
 
 * **Master in Data Science, Big Data & AI** | Evolve (Ongoing).
-* **Digital Generation: Change Agents Program** | Cesur Cartuja (Ongoing).
+* **Digital Generation: Change Agents Program** | Cesur Cartuja.
 * **Higher Technician in Multi-platform Application Development** | Cesur Cartuja.
 * **B.A. in Social and Cultural Anthropology** | University of Seville.
 
